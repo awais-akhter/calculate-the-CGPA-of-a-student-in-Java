@@ -3,10 +3,12 @@ Java application that will calculate the CGPA of a student.
 
 ===========================================================
 
-Create a Java application that will calculate the CGPA of a student. The application should run as foloows:
+Create a Java application that will calculate the CGPA of a student. The application should run as folows:
 
 1- Ask for the student name.
 2- Ask for his registration number.
+
+(Note: There is five subjects in the menu. Only 3 have lab & theory both)
 
 Then, prompt the user with the following:
 
@@ -21,14 +23,14 @@ Then prompt the user with the following menu:
 
 If "1" is selected then user is prompted as follows:
 
-1- Enter subject name
-2- Enter subject marks
+Select Subject from Menu
+Enter subject marks
 
 if "2" is selected, then user is promted as follows:
 
-1- Enter subject name
-2- Enter subject theory marks
-3- Enter subject lab marks
+Select Subject from Menu 
+1- Enter subject theory marks
+2- Enter subject lab marks
 
 Once done, again prompt the user with the menu:
 
